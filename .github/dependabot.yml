@@ -1,6 +1,0 @@
-version: 2
-updates:
-  - package-ecosystem: "pip" # Specifies Python's package manager
-    directory: "/" # Root directory
-    schedule:
-      interval: "daily"
