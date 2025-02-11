@@ -1,6 +1,6 @@
 version: 2
 updates:
   - package-ecosystem: "pip" # Specifies Python's package manager
-    directory: "/" # Adjust if your requirements file is in a subdirectory
+    directory: "/" # Root directory
     schedule:
-      interval: "weekly"
+      interval: "daily"
