@@ -65,6 +65,12 @@
 - **[Functions & Recursions](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%208)**  
 - **[Practice Set](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%208/Practice)**  
 
+## **Chapter 9: File I/O**
+  - Reading and writing files
+  - Working with directories
+  - **[File I/O](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%209)**
+  - **[Practice Set](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%209/Practice)**
+  
 ---
 
 ### Project  
