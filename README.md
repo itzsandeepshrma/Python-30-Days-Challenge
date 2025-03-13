@@ -75,6 +75,7 @@
   - Classes and objects
   - Methods and attributes
   - **[Object-Oriented Programming](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2010)**
+  - **[Practice Set](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2010/Practice)**
   
 ---
 
