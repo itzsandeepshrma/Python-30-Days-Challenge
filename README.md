@@ -70,6 +70,11 @@
   - Working with directories
   - **[File I/O](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%209)**
   - **[Practice Set](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%209/Practice)**
+
+## **Chapter 10: Object-Oriented Programming**
+  - Classes and objects
+  - Methods and attributes
+  - **[Object-Oriented Programming](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2010)**
   
 ---
 
