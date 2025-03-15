@@ -82,6 +82,7 @@
   - Polymorphism
   - Operator overloading
   - **[Inheritance & More on OOPs](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2011)**
+  - **[Practice Set](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2011/Practice)**
   
 ---
 
