@@ -100,5 +100,8 @@
 ---
 
 ### Project  
-- **[Project 1: Snake Water Gun Game](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Project%201)**  
-- A fun and interactive game where the player competes against the computer in a variation of Rock-Paper-Scissors.  
+- **Project 1: [Snake Water Gun Game](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Project%201)**  
+  - A fun and interactive game where the player competes against the computer in a variation of Rock-Paper-Scissors.  
+
+- **Project 2: [Guess The Number](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Project%202)**
+  - A guessing game where the player tries to guess a randomly generated number within a certain range.
