@@ -83,6 +83,19 @@
   - Operator overloading
   - **[Inheritance & More on OOPs](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2011)**
   - **[Practice Set](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2011/Practice)**
+
+## **Chapter 12: Advanced Python 1**
+  - Newly added features in Python
+  - Walrus operator
+  - Advanced type hints
+  - Match case
+  - Dictionary merge & update operators
+  - Exception handling enhancements
+  - Global keyword and enumerate function
+  - List comprehensions
+  - **[Advanced Python 1](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2012)**
+  - **[Practice Set](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2012/Practice)**
+
   
 ---
 
