@@ -96,6 +96,13 @@
   - **[Advanced Python 1](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2012)**
   - **[Practice Set](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2012/Practice)**
 
+## **Chapter 13: Advanced Python 2**
+  - Virtual environments
+  - Lambda functions
+  - String methods: `join` and `format`
+  - Functional programming: `map`, `filter`, and `reduce`
+  - **[Advanced Python 2](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2013)**
+  - **[Practice Set](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Chapter%2013/Practice)**
   
 ---
 
