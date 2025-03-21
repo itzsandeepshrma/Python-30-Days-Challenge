@@ -1,6 +1,6 @@
 ﻿beautifulsoup4==4.12.3
 blinker==1.8.2
-certifi==2024.2.2
+certifi==2024.7.4
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
@@ -10,7 +10,7 @@ filelock==3.14.0
 Flask==3.0.3
 idna==3.7
 itsdangerous==2.2.0
-Jinja2==3.1.4
+Jinja2==3.1.6
 MarkupSafe==2.1.5
 numpy==1.26.4
 pandas==1.5.2
@@ -27,7 +27,14 @@ requests==2.32.3
 six==1.16.0
 soupsieve==2.5
 tzdata==2024.1
-urllib3==2.2.1
+dependabot/pip/Chapter-13/Practice/urllib3-2.2.2
+urllib3==2.2.2
 virtualenv==20.26.2
+dependabot/pip/Chapter-13/Practice/werkzeug-3.0.6
 Werkzeug==3.0.6
+urllib3==2.2.1
+virtualenv==20.26.6
+main
+Werkzeug==3.0.3
+main
 wikipedia==1.4.0
