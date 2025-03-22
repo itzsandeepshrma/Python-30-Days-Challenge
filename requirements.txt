@@ -22,7 +22,7 @@ pypiwin32==223
 python-dateutil==2.9.0.post0
 pyttsx3==2.90
 pytz==2025.1
-pywin32==306
+pywin32==310
 requests==2.32.3
 six==1.17.0
 soupsieve==2.6
