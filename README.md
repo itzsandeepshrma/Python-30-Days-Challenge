@@ -112,3 +112,10 @@
 
 - **Project 2: [Guess The Number](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Project%202)**
   - A guessing game where the player tries to guess a randomly generated number within a certain range.
+
+- **Mega Project 1: [Jarvis Virtual Assistant](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Mega%20Project%201%20-%20Jarvis)**
+  - A voice assistant application capable of performing various tasks such as playing music, and providing information.
+- **Mega Project 2: [AI AutoReply Bot](https://github.com/itzsandeepshrma/Python-30-Days-Challenge/tree/main/Mega%20Project%202%20-%20AI%20AutoReply%20Bot)**
+  - An AI-based bot designed to automatically reply to messages, enhancing communication efficiency.
+
+ ---
