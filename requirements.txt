@@ -16,7 +16,7 @@ numpy==1.26.4
 pandas==2.2.3
 platformdirs==4.2.2
 pydub==0.25.1
-pygame==2.5.2
+pygame==2.6.1
 pyjokes==0.6.0
 pypiwin32==223
 python-dateutil==2.9.0.post0
