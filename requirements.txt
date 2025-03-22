@@ -17,7 +17,7 @@ pandas==2.2.3
 platformdirs==4.2.2
 pydub==0.25.1
 pygame==2.6.1
-pyjokes==0.6.0
+pyjokes==0.8.3
 pypiwin32==223
 python-dateutil==2.9.0.post0
 pyttsx3==2.90
