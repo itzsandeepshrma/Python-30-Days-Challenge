@@ -25,7 +25,7 @@ pytz==2025.1
 pywin32==306
 requests==2.32.3
 six==1.16.0
-soupsieve==2.5
+soupsieve==2.6
 tzdata==2024.1
 urllib3==2.2.2
 virtualenv==20.26.6
