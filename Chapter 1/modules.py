@@ -3,5 +3,5 @@ import pyjokes
 
 print(pyjokes.get_joke())
 
-"""ASUS
-IN SEARCH OF INCREDIBLE""" """MultiLine Comments"""
+"""Team Japanese 
+In Search Of NextGen""" """MultiLine Comments"""
