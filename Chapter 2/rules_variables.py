@@ -6,6 +6,8 @@ sandeep = 34
 
 sandeep = 45
 
+sandy = 99
+
 _sandeep = 34
 
 # @sandeepr = 56 # Invalid due to @ symbol
