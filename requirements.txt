@@ -14,7 +14,7 @@ Jinja2==3.1.6
 MarkupSafe==3.0.2
 numpy==2.0.2
 pandas==2.2.3
-platformdirs==4.3.7
+platformdirs==4.3.8
 pydub==0.25.1
 pygame==2.6.1
 pyjokes==0.8.3
