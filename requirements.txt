@@ -23,7 +23,7 @@ python-dateutil==2.9.0.post0
 pyttsx3==2.98
 pytz==2025.2
 pywin32==310
-requests==2.32.3
+requests==2.32.4
 six==1.17.0
 soupsieve==2.7
 tzdata==2025.2
