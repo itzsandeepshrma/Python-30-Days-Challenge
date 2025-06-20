@@ -1,1 +1,1 @@
-print("Hello Master")
+print("Hello Samurai")
