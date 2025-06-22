@@ -1,3 +1,3 @@
-result = (5 + 3) * 2
+result = (7 + 3) * 2
 print("Result:", result)  
-# Output: 16
+# Output: 20
