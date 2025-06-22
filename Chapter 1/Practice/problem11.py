@@ -1,5 +1,5 @@
 a = 10
-b = 9
+b = 10
 print("Result", a*b)
 
-# Output Result 90
+# Output Result 100
