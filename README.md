@@ -1,6 +1,8 @@
 # Python 30 Day's Challenge  
 ![images (10)](https://github.com/user-attachments/assets/502a98d3-22c0-40ae-82cf-aca8c6d8d896)  
 
+--- 
+
 ### **Chapter 1: Modules, Comments & pip**  
 - Writing the first Python program  
 - Understanding modules  
