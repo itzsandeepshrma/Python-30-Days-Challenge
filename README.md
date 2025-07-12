@@ -3,6 +3,7 @@
 
 --- 
 
+
 ### **Chapter 1: Modules, Comments & pip**  
 - Writing the first Python program  
 - Understanding modules  
