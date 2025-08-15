@@ -6,7 +6,7 @@ click==8.1.8
 colorama==0.4.6
 comtypes==1.4.11
 distlib==0.4.0
-filelock==3.18.0
+filelock==3.19.1
 Flask==3.1.1
 idna==3.10
 itsdangerous==2.2.0
