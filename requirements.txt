@@ -7,7 +7,7 @@ colorama==0.4.6
 comtypes==1.4.11
 distlib==0.4.0
 filelock==3.19.1
-Flask==3.1.1
+Flask==3.1.2
 idna==3.10
 itsdangerous==2.2.0
 Jinja2==3.1.6
