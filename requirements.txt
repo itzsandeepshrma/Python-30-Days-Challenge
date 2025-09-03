@@ -1,4 +1,4 @@
-beautifulsoup4==4.13.4
+beautifulsoup4==4.13.5
 blinker==1.9.0
 certifi==2025.8.3
 charset-normalizer==3.4.3
@@ -7,14 +7,19 @@ colorama==0.4.6
 comtypes==1.4.11
 distlib==0.4.0
 filelock==3.19.1
-Flask==3.1.1
+Flask==3.1.2
 idna==3.10
 itsdangerous==2.2.0
 Jinja2==3.1.6
 MarkupSafe==3.0.2
 numpy==2.0.2
+
 pandas==2.3.1
 platformdirs==4.4.0
+
+pandas==2.3.2
+platformdirs==4.3.8
+
 pydub==0.25.1
 pygame==2.6.1
 pyjokes==0.8.3
