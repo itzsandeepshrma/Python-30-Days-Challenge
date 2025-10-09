@@ -14,10 +14,10 @@ Jinja2==3.1.6
 MarkupSafe==3.0.3
 numpy==2.0.2
 
-pandas==2.3.2
+pandas==2.3.3
 platformdirs==4.4.0
 
-pandas==2.3.2
+pandas==2.3.3
 platformdirs==4.4.0
 
 pydub==0.25.1
