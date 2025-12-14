@@ -31,7 +31,7 @@ pywin32==311
 requests>=2.32.4
 six==1.17.0
 soupsieve==2.8
-tzdata==2025.2
+tzdata==2025.3
 urllib3==2.6.0
 virtualenv==20.35.4
 Werkzeug==3.1.4
